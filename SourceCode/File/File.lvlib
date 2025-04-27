@@ -6,7 +6,25 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Property Name="NI_IconEditor" Type="Str">50 52 49 49 56 48 48 49 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 3 107 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 2 247 0 0 0 0 0 0 0 0 0 0 2 218 0 40 0 0 2 212 0 0 2 160 0 0 0 0 0 7 0 32 0 24 0 0 0 0 0 255 255 255 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 255 255 255 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 246 246 246 246 246 246 9 9 9 9 9 9 246 246 246 9 9 9 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 246 246 246 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 9 9 9 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 246 246 246 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 9 9 9 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 246 246 246 9 9 9 9 9 9 246 246 246 9 9 9 246 246 246 9 9 9 9 9 9 9 9 9 9 9 9 246 246 246 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 9 9 9 246 246 246 246 246 246 9 9 9 9 9 9 246 246 246 246 246 246 246 246 246 9 9 9 9 9 9 246 246 246 9 9 9 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 255 255 255 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 255 255 255 127 255 255 254 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 127 255 255 254 0 0 0 9 67 108 105 112 98 111 97 114 100 100 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 19 76 97 98 86 73 69 87 32 65 112 112 108 105 99 97 116 105 111 110 0 1 14 1 1
 
 </Property>
+	<Item Name="TypeDef" Type="Folder">
+		<Item Name="FileDataType.ctl" Type="VI" URL="../TypeDef/FileDataType.ctl"/>
+		<Item Name="ColorPaletteValue.ctl" Type="VI" URL="../TypeDef/ColorPaletteValue.ctl"/>
+		<Item Name="ImageFileOptions.ctl" Type="VI" URL="../TypeDef/ImageFileOptions.ctl"/>
+		<Item Name="Jpeg2000AdvancedOptions.ctl" Type="VI" URL="../TypeDef/Jpeg2000AdvancedOptions.ctl"/>
+		<Item Name="TiffOptions.ctl" Type="VI" URL="../TypeDef/TiffOptions.ctl"/>
+	</Item>
+	<Item Name="ReadImageFile.vi" Type="VI" URL="../ReadImageFile.vi"/>
+	<Item Name="ReadImageFileInfo.vi" Type="VI" URL="../ReadImageFileInfo.vi"/>
+	<Item Name="ReadImageFileWithVisionInfo.vi" Type="VI" URL="../ReadImageFileWithVisionInfo.vi"/>
+	<Item Name="WriteImageFile.vi" Type="VI" URL="../WriteImageFile.vi"/>
+	<Item Name="WriteImageFileBMP.vi" Type="VI" URL="../WriteImageFileBMP.vi"/>
+	<Item Name="WriteImageFilePNG.vi" Type="VI" URL="../WriteImageFilePNG.vi"/>
+	<Item Name="WriteImageFilePngVisionInfo.vi" Type="VI" URL="../WriteImageFilePngVisionInfo.vi"/>
+	<Item Name="WriteImageFileJpeg.vi" Type="VI" URL="../WriteImageFileJpeg.vi"/>
+	<Item Name="WriteImageFileJpeg2000.vi" Type="VI" URL="../WriteImageFileJpeg2000.vi"/>
+	<Item Name="WriteImageFileTIFF.vi" Type="VI" URL="../WriteImageFileTIFF.vi"/>
 </Library>

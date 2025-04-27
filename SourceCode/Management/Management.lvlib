@@ -24,7 +24,7 @@
 	<Item Name="ReadImageSize.vi" Type="VI" URL="../ReadImageSize.vi"/>
 	<Item Name="ReadImageInfo.vi" Type="VI" URL="../ReadImageInfo.vi"/>
 	<Item Name="ImageTypeToIMAQ.vi" Type="VI" URL="../ImageTypeToIMAQ.vi"/>
-	<Item Name="IMAQImageTypeToOVL.vi" Type="VI" URL="../IMAQImageTypeToOVL.vi"/>
+	<Item Name="IMAQImageTypeToOLV.vi" Type="VI" URL="../IMAQImageTypeToOLV.vi"/>
 	<Item Name="WriteCustomData.vi" Type="VI" URL="../WriteCustomData.vi"/>
 	<Item Name="ReadCustomData.vi" Type="VI" URL="../ReadCustomData.vi"/>
 	<Item Name="ReadAllCustomKeys.vi" Type="VI" URL="../ReadAllCustomKeys.vi"/>
