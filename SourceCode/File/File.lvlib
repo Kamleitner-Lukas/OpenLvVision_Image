@@ -17,14 +17,16 @@
 		<Item Name="Jpeg2000AdvancedOptions.ctl" Type="VI" URL="../TypeDef/Jpeg2000AdvancedOptions.ctl"/>
 		<Item Name="TiffOptions.ctl" Type="VI" URL="../TypeDef/TiffOptions.ctl"/>
 	</Item>
+	<Item Name="WriteImage" Type="Folder">
+		<Item Name="WriteImageFile.vi" Type="VI" URL="../WriteImage/WriteImageFile.vi"/>
+		<Item Name="WriteImageFileBMP.vi" Type="VI" URL="../WriteImage/WriteImageFileBMP.vi"/>
+		<Item Name="WriteImageFilePNG.vi" Type="VI" URL="../WriteImage/WriteImageFilePNG.vi"/>
+		<Item Name="WriteImageFilePngVisionInfo.vi" Type="VI" URL="../WriteImage/WriteImageFilePngVisionInfo.vi"/>
+		<Item Name="WriteImageFileJpeg.vi" Type="VI" URL="../WriteImage/WriteImageFileJpeg.vi"/>
+		<Item Name="WriteImageFileJpeg2000.vi" Type="VI" URL="../WriteImage/WriteImageFileJpeg2000.vi"/>
+		<Item Name="WriteImageFileTIFF.vi" Type="VI" URL="../WriteImage/WriteImageFileTIFF.vi"/>
+	</Item>
 	<Item Name="ReadImageFile.vi" Type="VI" URL="../ReadImageFile.vi"/>
 	<Item Name="ReadImageFileInfo.vi" Type="VI" URL="../ReadImageFileInfo.vi"/>
 	<Item Name="ReadImageFileWithVisionInfo.vi" Type="VI" URL="../ReadImageFileWithVisionInfo.vi"/>
-	<Item Name="WriteImageFile.vi" Type="VI" URL="../WriteImageFile.vi"/>
-	<Item Name="WriteImageFileBMP.vi" Type="VI" URL="../WriteImageFileBMP.vi"/>
-	<Item Name="WriteImageFilePNG.vi" Type="VI" URL="../WriteImageFilePNG.vi"/>
-	<Item Name="WriteImageFilePngVisionInfo.vi" Type="VI" URL="../WriteImageFilePngVisionInfo.vi"/>
-	<Item Name="WriteImageFileJpeg.vi" Type="VI" URL="../WriteImageFileJpeg.vi"/>
-	<Item Name="WriteImageFileJpeg2000.vi" Type="VI" URL="../WriteImageFileJpeg2000.vi"/>
-	<Item Name="WriteImageFileTIFF.vi" Type="VI" URL="../WriteImageFileTIFF.vi"/>
 </Library>
